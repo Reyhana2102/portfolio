@@ -24,17 +24,13 @@ h1{
     margin-bottom: 2.5rem;
     margin-top: 2.5rem;
 }
-.div2{
-    flex-direction: row;
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 2.5rem;
-    margin-top: 2.5rem;
-    align-items: center;
-    font-weight: 100px ;
-    unicode-bidi: isolate;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+.sec{
+font-size: 1.7em;
+gap: 25px;
+margin-left: 200px;
+}
+svg{
+    font-size: 2.2em;
 }
 .p{
     font-weight: 500;
